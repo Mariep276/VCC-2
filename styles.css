@@ -1,0 +1,40 @@
+/* VCC-2 GitHub Assignment 2 */
+/* Website Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #234a78;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    padding: 15px;
+    background-color: #e3eaf3;
+    border-radius: 8px;
+}
+
+nav a {
+    color: #234a78;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
